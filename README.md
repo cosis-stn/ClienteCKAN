@@ -1,5 +1,6 @@
 # ClienteCKAN
 Projeto de implementação de cliente Java para comunicação com a plataforma CKAN.
+Projeto inspirado no projeto [CKANClient-J], de Ross Jones.
 
 ##Equipe
 Projeto desenvolvido pelo time de desenvolvimento da Secretaria do Tesouro Nacional.
