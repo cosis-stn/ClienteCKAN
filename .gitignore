@@ -1,0 +1,8 @@
+#Não inclui as classes de teste pois estas possuem informações de apikeys
+/src/test/**
+
+#Exclui as configurações do eclipse
+/.settings/**
+
+#Exclui projeto compilado
+/target/**
