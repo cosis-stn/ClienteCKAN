@@ -28,8 +28,7 @@ public class Conexao {
 		this.apiKey = apiKey;
 		this.diretorio = diretorio;
 	}
-	
-	
+		
 	protected String Post(String path, HttpEntity httpEntity) {
 		URL url = null;
 		String body = "";
@@ -108,7 +107,6 @@ public class Conexao {
 			e.printStackTrace();
 		}
 		
-		return body;
-		
+		return body;		
 	}	
 }
